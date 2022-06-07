@@ -1,4 +1,4 @@
-module hello
+module github.com/ckgroup8/microhello
 
 go 1.15
 
